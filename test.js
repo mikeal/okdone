@@ -1,4 +1,4 @@
-var ok = require('okdone')
+var ok = require('./')
 
 ok('message')
 ok('yup')
