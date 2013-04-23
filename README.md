@@ -6,7 +6,7 @@
 
 ```javascript
 var ok = require('okdone')
-  , assert = require('assert)
+  , assert = require('assert')
   ;
 
 ok('message')
