@@ -1,6 +1,6 @@
 {
   "name": "okdone",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "Least possible things you have to output for tap cause fuck frameworks.",
   "main": "index.js",
   "scripts": {
