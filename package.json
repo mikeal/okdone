@@ -1,6 +1,6 @@
 {
   "name": "okdone",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Least possible things you have to output for tap cause fuck frameworks.",
   "main": "index.js",
   "scripts": {
@@ -15,7 +15,41 @@
   ],
   "testling": {
     "files": "test.js",
-    "browsers": ["iexplore/8.0","iexplore/10.0","iexplore/9.0","chrome/20.0","chrome/21.0","chrome/22.0","chrome/23.0","chrome/24.0","chrome/25.0","firefox/10.0","firefox/11.0","firefox/12.0","firefox/13.0","firefox/14.0","firefox/15.0","firefox/16.0","firefox/17.0","firefox/18.0","firefox/19.0","opera/11.0","opera/11.5","opera/11.6","opera/12.0","safari/4.0","safari/5.0.5","safari/5.1","firefox/nightly","opera/next","chrome/canary","iphone/6.0","ipad/6.0","safari/6.0","android-browser/4.2"]
+    "browsers": [
+      "iexplore/8.0",
+      "iexplore/10.0",
+      "iexplore/9.0",
+      "chrome/20.0",
+      "chrome/21.0",
+      "chrome/22.0",
+      "chrome/23.0",
+      "chrome/24.0",
+      "chrome/25.0",
+      "firefox/10.0",
+      "firefox/11.0",
+      "firefox/12.0",
+      "firefox/13.0",
+      "firefox/14.0",
+      "firefox/15.0",
+      "firefox/16.0",
+      "firefox/17.0",
+      "firefox/18.0",
+      "firefox/19.0",
+      "opera/11.0",
+      "opera/11.5",
+      "opera/11.6",
+      "opera/12.0",
+      "safari/4.0",
+      "safari/5.0.5",
+      "safari/5.1",
+      "firefox/nightly",
+      "opera/next",
+      "chrome/canary",
+      "iphone/6.0",
+      "ipad/6.0",
+      "safari/6.0",
+      "android-browser/4.2"
+    ]
   },
   "author": "Mikeal Rogers",
   "license": "BSD"
